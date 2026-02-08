@@ -1,0 +1,23 @@
+{
+  "name": "karthik",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/chandhirasekar/Karthik-Marketing-77#readme",
+  "bugs": {
+    "url": "https://github.com/chandhirasekar/Karthik-Marketing-77/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandhirasekar/Karthik-Marketing-77.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
